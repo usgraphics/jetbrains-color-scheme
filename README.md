@@ -2,6 +2,10 @@
 
 This is the personal JetBrains IDE (PyCharm) scheme used by [@neilpanchal](https://github.com/neilpanchal). Provided as-is.
 
+## Installation
+
+Press \[Ctrl/Cmd\]+Alt+S. Press the cogwheel next to the "Editor color scheme" field. Select "import scheme".
+
 ## Screenshot
 
 Typeface is Berkeley Mono™ SemiCondensed with 0.9em line spacing: https://usgraphics.com/products/berkeley-mono
